@@ -1,0 +1,26 @@
+*{
+	font-family:  sans-serif;
+}
+body{
+	align-content: center;
+	background-color: lightblue;
+
+}
+#reseña{
+	font-size: 36px;
+	text-align: center;
+	border-top: solid 4px;
+	width: 100%;
+}
+#img{
+	width: 200px;
+	height: auto;
+}
+.indice ul{
+	border: 2px;
+}
+#sinopsis{
+	text-align: justify;
+	font-size: 20px;
+}
+
